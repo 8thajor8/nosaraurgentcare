@@ -388,7 +388,6 @@ body {
   color: white;
   border: 0;
   background-color: transparent;
-  text-align: justify;
 }
 
 .card__image {
@@ -403,10 +402,12 @@ body {
 .card__title {
   font-size: 1.4rem;
   margin-bottom: 15px;
+  text-align: center;
 }
 
 .card__text {
   font-size: 1.2rem;
+  text-align: left;
 }
 
 @media (max-width: 992px) {
