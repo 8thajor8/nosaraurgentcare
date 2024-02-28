@@ -227,7 +227,7 @@ body{
             font-size: 3.5rem;
         }
         .parrafo__banner{
-            font-size: 1.6rem;
+            font-size: 1.4rem;
             max-width: 80%;
             font-weight: 600;
             color: $primary-red;
@@ -253,13 +253,15 @@ body{
 @media (max-width: 992px) {
     .banner{
         .texto__banner {
+            padding-top: 30px;
+            padding-right: 30px;
             max-width: 95%;
             h1 {
                 font-size: 2rem;
                 
             }
             .parrafo__banner {
-                font-size: 1.5rem;
+                font-size: 1.3rem;
                 margin-bottom: 50px;
                 max-width: 100%;
             }
