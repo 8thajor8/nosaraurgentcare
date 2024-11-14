@@ -121,7 +121,7 @@ body {
   right: 0;
   left: 0;
   top: 0;
-  background-image: url("../assets/doctoroffice.webp");
+  background-image: url("../assets/nosarabeach.webp");
   background-color: transparent;
   background-size: cover;
   background-attachment: fixed;
@@ -201,13 +201,13 @@ body {
 .banner .texto__banner h1 {
   font-family: "AmsiPro-BlackItalic";
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
-  font-size: 3.5rem;
+  font-size: 5rem;
 }
 .banner .texto__banner .parrafo__banner {
   font-size: 1.4rem;
   max-width: 80%;
   font-weight: 600;
-  color: rgb(239, 62, 66);
+  color: white;
 }
 .banner .texto__banner .contactus__button {
   background-color: black;
@@ -232,12 +232,13 @@ body {
     max-width: 95%;
   }
   .banner .texto__banner h1 {
-    font-size: 2rem;
+    font-size: 4rem;
   }
   .banner .texto__banner .parrafo__banner {
     font-size: 1.3rem;
     margin-bottom: 50px;
     max-width: 100%;
+    line-height: 2;
   }
   .banner .right__circle {
     display: none;
